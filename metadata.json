@@ -1,0 +1,11 @@
+{
+  "id": "PersonaTarots",
+  "name": "Persona 3 Tarots",
+  "author": ["LDV"],
+  "display_name": "Persona 3 Tarots",
+  "description": "Changes all tarot cards to those used in Persona 3 Reload.",
+  "prefix": "p3tarots",
+  "main_file": "PersonaTarot.lua",
+  "priority": 0,
+  "version": "1.0"
+}
