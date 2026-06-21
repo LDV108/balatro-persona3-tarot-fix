@@ -13,7 +13,7 @@ Pairs well with [TarotLabels](https://www.nexusmods.com/balatro/mods/870), my ow
 
 ## Install
 
-Drop the `Persona 3 Tarot card-70-1-0-1732879781` folder into:
+Drop the `balatro-persona3-tarot-fix` folder into:
 
 ```
 %AppData%\Roaming\Balatro\Mods\
